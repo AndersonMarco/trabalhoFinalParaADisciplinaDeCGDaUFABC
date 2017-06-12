@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>off_models/armadillo.off</file>
+        <file>off_models/beetle.off</file>
+        <file>off_models/bunny.off</file>
+        <file>off_models/camel.off</file>
+        <file>off_models/elephant.off</file>
+        <file>off_models/elk.off</file>
+        <file>off_models/mannequin.off</file>
+        <file>off_models/mushroom.off</file>
+        <file>off_models/pear.off</file>
+        <file>off_models/pig.off</file>
+        <file>off_models/sphere.off</file>
+        <file>off_models/torus.off</file>
+    </qresource>
+</RCC>

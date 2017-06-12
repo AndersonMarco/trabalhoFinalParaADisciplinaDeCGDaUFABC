@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>camera.cpp</file>
+        <file>floor.frag</file>
+        <file>floor.vert</file>
+        <file>off_models/camel.off</file>
+        <file>off_models/pig.off</file>
+        <file>off_models/sphere.off</file>
+        <file>img/earth.jpg</file>
+        <file>img/mars.jpg</file>
+        <file>img/venus.jpg</file>
+        <file>img/clouds.jpg</file>
+        <file>paintscene.frag</file>
+        <file>paintscene.vert</file>
+        <file>mesh.frag</file>
+        <file>mesh.vert</file>
+    </qresource>
+</RCC>
